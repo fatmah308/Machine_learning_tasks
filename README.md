@@ -2,7 +2,7 @@ In this repositry you will find four different machine learning models build in 
 
 Here's a detail of all tasks:
 
-Task1: Student Score Prediction
+Task1: Student Score Prediction 
 -Dataset: Student performance factor (kaggle)
 -Build a model to predict student's exam scores based on their study hours
 -Perform data cleaning and basic visualization to understand the dataset
@@ -26,3 +26,11 @@ Task3: Sales Forecasting Description
 -Apply regression models to forecast next period's sales
 -Plot actual vs. predicted values over time
 bonus: Use rolling averages and seasonal decomposition, Apply XGBoost or LightGBM with time-aware validation
+
+Task4: Forest Cover Type Classification
+-Dataset (Recommended): Covertype (UCI)
+-Predict the type of forest cover based on cartographic and environmental features
+-Clean and preprocess the data including categorical handling
+-Train and evaluate multi-class classification models
+-Visualize confusion matrix and feature importance
+bonus: Compare different models (e.g., Random Forest vs. XGBoost), Perform hyperparameter tuning
