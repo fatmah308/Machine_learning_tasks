@@ -34,3 +34,11 @@ Task4: Forest Cover Type Classification
 -Train and evaluate multi-class classification models
 -Visualize confusion matrix and feature importance
 bonus: Compare different models (e.g., Random Forest vs. XGBoost), Perform hyperparameter tuning
+
+Task5: Customer Segmentation
+-Dataset (Recommended): Mall Customer (Kaggle)
+-Cluster customers into segments based on income and spending score
+-Perform scaling and visual exploration of groupings
+-Apply K-Means clustering and determine optimal number of clusters
+-Visualize clusters using 2D plots
+bonus: Add data augmentation to improve performance, Compare custom CNN vs. pre-trained model (e.g., MobileNet)
